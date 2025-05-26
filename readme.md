@@ -21,6 +21,7 @@ LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供
 
 - **[YXVM](https://yxvm.com)**  
 - **[VTEXS](https://vtexs.com)**
+- **[frp](http://frpkj.com)**
 
 ## 🚀 快速部署
 
@@ -171,4 +172,4 @@ LibreTV 仅作为视频搜索工具，不存储、上传或分发任何视频内
 
 如果您想支持本项目，可以考虑进行捐款：
 
-[![捐赠](https://img.shields.io/badge/捐赠-UNICEF-1a85ff?style=for-the-badge&logo=unicef)]
+![捐赠](https://img.shields.io/badge/捐赠-UNICEF-1a85ff?style=for-the-badge&logo=unicef)
